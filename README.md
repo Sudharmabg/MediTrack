@@ -179,7 +179,6 @@ docs/
 ├── JVM_Report.md                      # JVM architecture documentation
 ├── Setup_Instructions.md              # Setup guide
 ├── Design_Decisions.md                # Architecture decisions
-└── API_Documentation.md               # API usage guide
 ```
 
 ---
@@ -578,7 +577,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors
 
 - **Sudharma**
-- Email: bgsudharma1998@airtribe.com
+- Email: bgsudharma1998@gmail.com
 
 ---
 
